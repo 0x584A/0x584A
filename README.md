@@ -2,7 +2,7 @@
 
 
 - 💬 Blog  [jgeek.cn](https://jgeek.cn/)
-- 💬 Info: PHPer & Party A Infosec Engineer & NISP 1
+- 💬 Info: PHPer & Pythoner & Party A Infosec Engineer & NISP 1
 - 💬 Addr: Shanghai
 
 
